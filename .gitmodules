@@ -1,0 +1,3 @@
+[submodule "src/main/proto/grpc-demo-protobuf"]
+	path = src/main/proto/grpc-demo-protobuf
+	url = https://github.com/willwybrow/grpc-demo-protobuf.git
